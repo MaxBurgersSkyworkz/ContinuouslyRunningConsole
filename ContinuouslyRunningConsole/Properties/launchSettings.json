@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ContinuouslyRunningConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
